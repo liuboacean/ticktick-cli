@@ -7,7 +7,7 @@ name = "ticktick-cli"
 version = "0.1.0"
 description = "CLI for TickTick / dida365 task and project management with OAuth2 auth, batch operations, and rate limit handling"
 readme = "README.md"
-license = {text = "MIT"}
+license = "MIT"
 requires-python = ">=3.11"
 authors = [
     {name = "Liubo", email = "liuboacean@qq.com"}
