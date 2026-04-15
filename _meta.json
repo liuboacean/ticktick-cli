@@ -1,6 +1,8 @@
 {
   "ownerId": "kn760bnawp2npy0gx535nej64184hccc",
-  "slug": "ticktickpower",
-  "version": "1.0.1",
-  "publishedAt": 1775736977881
+  "slug": "liubo-ticktick",
+  "version": "0.1.0",
+  "publishedAt": 1775736977881,
+  "github": "https://github.com/liuboacean/ticktick-cli",
+  "clawhub": "https://clawhub.com/liubo-ticktick"
 }
