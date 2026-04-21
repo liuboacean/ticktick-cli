@@ -1,5 +1,10 @@
 # ticktick-cli
 
+[![GitHub stars](https://img.shields.io/github/stars/liuboacean/ticktick-cli?style=social)](https://github.com/liuboacean/ticktick-cli/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/liuboacean/ticktick-cli?style=social)](https://github.com/liuboacean/ticktick-cli/network/members)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 > 通过命令行管理 TickTick / 滴答清单任务和项目，支持 OAuth2 认证、批量操作和限流自动重试。
 
 ```bash
